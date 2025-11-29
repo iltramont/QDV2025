@@ -3,7 +3,7 @@ Milano,ITC4C,15,Milano,75.1,Valore aggiunto per abitante,Migliaia di euro a valo
 Bolzano/Bozen,ITH10,21,Bolzano,62.7,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
 Bologna,ITH55,37,Bologna,51.4,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
 Roma,ITI43,58,Roma,50.6,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,49.4,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,49.4,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
 Modena,ITH54,36,Modena,49.1,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
 Firenze,ITI14,48,Firenze,48.7,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
 Trento,ITH20,22,Trento,48.5,Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
@@ -140,7 +140,7 @@ Venezia,ITH35,27,Venezia,3.061224489795907,Trend del pil pro capite,Var % annua,
 Isernia,ITF21,94,Isernia,3.05343511450382,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
 Foggia,ITF46,71,Foggia,3.0303030303030267,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
 Barletta-Andria-Trani,ITF48,110,Barletta-Andria-Trani,2.955665024630531,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2.9166666666666634,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2.9166666666666634,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
 Treviso,ITH34,26,Treviso,2.9126213592232904,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
 Grosseto,ITI1A,53,Grosseto,2.893890675241153,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
 Sassari,ITG2D ,90,Sassari,2.8880866425992804,Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
@@ -226,7 +226,7 @@ Monza e della Brianza,ITC4D,108,Monza e Brianza,23.38965981322009,Depositi banca
 Bologna,ITH55,37,Bologna,23.34671381622448,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
 Avellino,ITF34,64,Avellino,23.32657900136539,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
 Como,ITC42,13,Como,23.10067470789677,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,22.73328226608211,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,22.73328226608211,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
 Udine,ITH42,30,Udine,22.60883195241295,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
 Roma,ITI43,58,Roma,22.358166001205053,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
 Treviso,ITH34,26,Treviso,22.355612404779134,Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
@@ -380,7 +380,7 @@ Livorno,ITI16,49,Livorno,20404.2,Retribuzione media annua dei lavoratori dipende
 Frosinone,ITI45,60,Frosinone,20333.2,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
 Cagliari,ITG2F,92,Cagliari,20229.7,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
 Savona,ITC32,9,Savona,20107.8,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,19918.3,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,19918.3,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
 Macerata,ITI33,43,Macerata,19912.4,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
 Ascoli Piceno,ITI34,44,Ascoli Piceno,19805.2,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
 Prato,ITI15,100,Prato,19647.8,Retribuzione media annua dei lavoratori dipendenti - totale,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
@@ -439,7 +439,7 @@ Modena,ITH54,36,Modena,26076.91,Reddito medio disponibile pro capite,Euro per ab
 Torino,ITC11,1,Torino,25852.91,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
 Roma,ITI43,58,Roma,25507.93,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
 Savona,ITC32,9,Savona,25179.29,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,25150.5,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,25150.5,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
 Trento,ITH20,22,Trento,25133.85,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
 Cuneo,ITC16,4,Cuneo,25132.58,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
 Forlì-Cesena,ITH58,40,Forlì-Cesena,25037.79,Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
@@ -550,7 +550,7 @@ Sondrio,ITC44,14,Sondrio,17.2,Famiglie con isee basso,Isee < 7mila euro - in % s
 Gorizia,ITH43,31,Gorizia,17.5,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
 Pesaro e Urbino,ITI31,41,Pesaro e Urbino,17.9,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,18.0,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,18.1,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,18.1,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
 Verona,ITH31,23,Verona,18.2,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
 Siena,ITI19,52,Siena,18.4,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
 Monza e della Brianza,ITC4D,108,Monza e Brianza,18.5,Famiglie con isee basso,Isee < 7mila euro - in % sul totale dei nuclei con isee,2024,elab su dati Inps
@@ -656,7 +656,7 @@ Monza e della Brianza,ITC4D,108,Monza e Brianza,5.8,Pensionati con reddito pensi
 Asti,ITC17,5,Asti,5.9,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
 Gorizia,ITH43,31,Gorizia,5.9,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
 Trieste,ITH44,32,Trieste,5.9,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,6.0,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,6.0,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
 Milano,ITC4C,15,Milano,6.0,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
 Padova,ITH36,28,Padova,6.0,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
 Siena,ITI19,52,Siena,6.0,Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
@@ -766,7 +766,7 @@ Venezia,ITH35,27,Venezia,24492.48,Reddito medio da pensione di vecchiaia,In euro
 Firenze,ITI14,48,Firenze,24454.92,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
 Gorizia,ITH43,31,Gorizia,24400.81,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
 Siracusa,ITG19,89,Siracusa,24344.54,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,24263.32,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,24263.32,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
 Lecco,ITC43,97,Lecco,24238.69,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,24161.54,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
 Terni,ITI22,55,Terni,24150.68,Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
@@ -891,7 +891,7 @@ Potenza,ITF51,76,Potenza,10.61342351187035,Disuguaglianza del reddito netto,Rapp
 Viterbo,ITI41,56,Viterbo,10.64673532577759,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
 Ravenna,ITH57,39,Ravenna,10.85687451551868,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
 Matera,ITF52,77,Matera,10.94378377236422,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,11.06485948268684,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,11.06485948268684,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
 Catanzaro,ITF63,79,Catanzaro,11.06703407816548,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
 Pistoia,ITI13,47,Pistoia,11.13471142296953,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
 Grosseto,ITI1A,53,Grosseto,11.16730080855551,Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
@@ -1057,7 +1057,7 @@ Como,ITC42,13,Como,102.96562449723815,Mensilità di stipendio per comprare casa,
 Pisa,ITI17,50,Pisa,104.21335723890633,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
 Torino,ITC11,1,Torino,104.78158205430933,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
 Siena,ITI19,52,Siena,106.5689314914012,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,107.68829134577732,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,107.68829134577732,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
 Bolzano/Bozen,ITH10,21,Bolzano,107.9136690647482,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
 Bologna,ITH55,37,Bologna,115.85739179578955,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
 Verona,ITH31,23,Verona,117.45776347546258,Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
@@ -1092,7 +1092,7 @@ Prato,ITI15,100,Prato,79.8,Assorbimento del settore residenziale,% mq compravend
 Cremona,ITC4A,19,Cremona,79.7,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
 Grosseto,ITI1A,53,Grosseto,79.2,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
 Cosenza,ITF61,78,Cosenza,79.2,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,79.0,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,79.0,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
 Lecco,ITC43,97,Lecco,78.7,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
 Livorno,ITI16,49,Livorno,78.6,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,78.4,Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
@@ -1187,7 +1187,7 @@ Lucca,ITI12,46,Lucca,3650.0,Spesa delle famiglie per il consumo di beni durevoli
 Siena,ITI19,52,Siena,3648.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
 Pisa,ITI17,50,Pisa,3603.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,3573.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,3557.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,3557.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
 Cremona,ITC4A,19,Cremona,3538.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
 Padova,ITH36,28,Padova,3537.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
 Como,ITC42,13,Como,3526.0,Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
@@ -1343,7 +1343,7 @@ Terni,ITI22,55,Terni,38.9,Pagamenti delle fatture alla scadenza,% delle fatture 
 Viterbo,ITI41,56,Viterbo,38.3,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
 Rieti,ITI42,57,Rieti,38.2,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
 Matera,ITF52,77,Matera,37.9,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,37.8,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,37.8,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
 Imperia,ITC31,8,Imperia,37.8,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
 Bari,ITF47,72,Bari,37.4,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
 Savona,ITC32,9,Savona,37.3,Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
@@ -1406,7 +1406,7 @@ Massa-Carrara,ITI11,45,Massa-Carrara,0.9,Inflazione indice generale,In %,Sett 20
 Terni,ITI22,55,Terni,0.9,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
 Brindisi,ITF44,74,Brindisi,0.9,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
 Sassari,ITG2D ,90,Sassari,0.9,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,1.0,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,1.0,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
 Caserta,ITF31,61,Caserta,1.0,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
 Teramo,ITF12,67,Teramo,1.0,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
 Agrigento,ITG14,84,Agrigento,1.0,Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
@@ -1505,7 +1505,7 @@ Bergamo,ITC46,16,Bergamo,2.5,Inflazione prodotti alimentari e bevande non alcoli
 Caserta,ITF31,61,Caserta,2.5,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
 Campobasso,ITF22,70,Campobasso,2.5,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
 Isernia,ITF21,94,Isernia,2.5,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2.7,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2.7,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
 Terni,ITI22,55,Terni,2.7,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
 Pescara,ITF13,68,Pescara,2.7,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
 Milano,ITC4C,15,Milano,2.8,Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
@@ -1640,7 +1640,7 @@ Firenze,ITI14,48,Firenze,5.96,Startup innovative,Ogni mille oscietà di capitale
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,5.93,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
 Enna,ITG16,86,Enna,5.81,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
 Piacenza,ITH51,33,Piacenza,5.78,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.74,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.74,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
 Pesaro e Urbino,ITI31,41,Pesaro e Urbino,5.73,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
 Brescia,ITC47,17,Brescia,5.65,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
 L'Aquila,ITF11,66,L'Aquila,5.61,Startup innovative,Ogni mille oscietà di capitale,Al 30 settembre 2025,Infocamere
@@ -1790,7 +1790,7 @@ Catania,ITG17,87,Catania,0.7352632613530699,Arrivi turistici,Var % annua,2024 ri
 Pordenone,ITH41,93,Pordenone,0.6953859391962539,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
 Torino,ITC11,1,Torino,0.6652971810529525,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
 Firenze,ITI14,48,Firenze,0.4974970060152048,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,0.3679834254349964,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,0.3679834254349964,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
 Fermo,ITI35,109,Fermo,0.2066513591585808,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
 Gorizia,ITH43,31,Gorizia,0.2011288381410093,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
 Massa-Carrara,ITI11,45,Massa-Carrara,0.1958825418346594,Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
@@ -1864,7 +1864,7 @@ Trento,ITH20,22,Trento,5.281772705955916,Nuove iscrizioni,Ogni 100 imprese regis
 Livorno,ITI16,49,Livorno,5.273169514781091,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Firenze,ITI14,48,Firenze,5.259318340985137,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,5.249709197002345,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.210855949895616,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.210855949895616,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Ascoli Piceno,ITI34,44,Ascoli Piceno,5.20935443215236,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Agrigento,ITG14,84,Agrigento,5.20460965427593,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Foggia,ITF46,71,Foggia,5.203212311826316,Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
@@ -1995,7 +1995,7 @@ Arezzo,ITI18,51,Arezzo,5.032555230161213,Cessazioni,Ogni 100 imprese registrate,
 Treviso,ITH34,26,Treviso,5.0414866135733245,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Biella,ITC13,96,Biella,5.062178118326843,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Pordenone,ITH41,93,Pordenone,5.095039040933828,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.102296450939457,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.102296450939457,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Como,ITC42,13,Como,5.159080628136914,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Imperia,ITC31,8,Imperia,5.159126302759254,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Lucca,ITI12,46,Lucca,5.165314726694445,Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
@@ -2068,7 +2068,7 @@ Fermo,ITI35,109,Fermo,10.0,Tasso di infortuni sul lavoro mortali e con inabilit�
 Barletta-Andria-Trani,ITF48,110,Barletta-Andria-Trani,10.0,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Varese,ITC41,12,Varese,10.1,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Bergamo,ITC46,16,Bergamo,10.1,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,10.2,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,10.2,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Padova,ITH36,28,Padova,10.6,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Frosinone,ITI45,60,Frosinone,10.6,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Matera,ITF52,77,Matera,10.8,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
@@ -2140,7 +2140,7 @@ Massa-Carrara,ITI11,45,Massa-Carrara,19.8,Tasso di infortuni sul lavoro mortali 
 Potenza,ITF51,76,Potenza,20.1,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Arezzo,ITI18,51,Arezzo,20.3,Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
 Bolzano/Bozen,ITH10,21,Bolzano,0.25,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,0.4499999999999999,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,0.4499999999999999,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Cuneo,ITC16,4,Cuneo,0.52,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Ferrara,ITH56,38,Ferrara,0.58,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
 Sondrio,ITC44,14,Sondrio,0.62,Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
@@ -2250,7 +2250,7 @@ Bolzano/Bozen,ITH10,21,Bolzano,79.9,Tasso di occupazione,In % (20-64 anni),2024,
 Firenze,ITI14,48,Firenze,79.6,Tasso di occupazione,In % (20-64 anni),2024,Istat
 Prato,ITI15,100,Prato,79.6,Tasso di occupazione,In % (20-64 anni),2024,Istat
 Padova,ITH36,28,Padova,78.3,Tasso di occupazione,In % (20-64 anni),2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,77.6,Tasso di occupazione,In % (20-64 anni),2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,77.6,Tasso di occupazione,In % (20-64 anni),2024,Istat
 Milano,ITC4C,15,Milano,77.2,Tasso di occupazione,In % (20-64 anni),2024,Istat
 Siena,ITI19,52,Siena,77.2,Tasso di occupazione,In % (20-64 anni),2024,Istat
 Trento,ITH20,22,Trento,76.9,Tasso di occupazione,In % (20-64 anni),2024,Istat
@@ -2373,7 +2373,7 @@ Verona,ITH31,23,Verona,6.2,Tasso di mancata partecipazione al lavoro,In %,2024,I
 Arezzo,ITI18,51,Arezzo,6.2,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
 Siena,ITI19,52,Siena,6.2,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
 Udine,ITH42,30,Udine,6.4,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,6.5,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,6.5,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
 Ascoli Piceno,ITI34,44,Ascoli Piceno,6.5,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
 Venezia,ITH35,27,Venezia,6.7,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
 Ravenna,ITH57,39,Ravenna,6.7,Tasso di mancata partecipazione al lavoro,In %,2024,Istat
@@ -2476,7 +2476,7 @@ Ferrara,ITH56,38,Ferrara,7.726051,Tasso di disoccupazione giovanile,In % (15-24 
 Macerata,ITI33,43,Macerata,7.893743,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
 Lodi,ITC49,98,Lodi,8.63458,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
 Mantova,ITC4B,20,Mantova,8.815211,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,8.873239,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,8.873239,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
 Udine,ITH42,30,Udine,9.19124,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
 Siena,ITI19,52,Siena,9.323891,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
 Fermo,ITI35,109,Fermo,9.977035,Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
@@ -2607,7 +2607,7 @@ Parma,ITH52,34,Parma,43.139778724192205,Numero di ore cig autorizzate,Ore medie 
 Catanzaro,ITF63,79,Catanzaro,45.43452841278189,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
 Caserta,ITF31,61,Caserta,49.28844911561138,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
 Siena,ITI19,52,Siena,52.45623897707231,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,53.31073068893528,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,53.31073068893528,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
 Campobasso,ITF22,70,Campobasso,54.35837697414539,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
 Napoli,ITF33,63,Napoli,54.46500675852953,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
 Pistoia,ITI13,47,Pistoia,55.4043447339497,Numero di ore cig autorizzate,Ore medie per impresa registrata,2024,Inps 
@@ -2745,7 +2745,7 @@ Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,16.6,Quota di export sul pil
 Sondrio,ITC44,14,Sondrio,15.6,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
 La Spezia,ITC34,11,La Spezia,15.0,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
 Salerno,ITF35,65,Salerno,14.0,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,13.9,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,13.9,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
 Bari,ITF47,72,Bari,13.9,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
 Rieti,ITI42,57,Rieti,13.0,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
 Potenza,ITF51,76,Potenza,12.8,Quota di export sul pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
@@ -2864,7 +2864,7 @@ Torino,ITC11,1,Torino,225.6348077991805,Numero pensioni di vecchiaia,Numero pens
 Modena,ITH54,36,Modena,225.66061575211975,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
 Sondrio,ITC44,14,Sondrio,226.92975744341,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
 Ancona,ITI32,42,Ancona,229.92775834244927,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,229.94931303681733,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,229.94931303681733,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
 Novara,ITC15,3,Novara,230.3239152980427,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
 Bologna,ITH55,37,Bologna,230.4878705803412,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
 Gorizia,ITH43,31,Gorizia,231.77962433999824,Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
@@ -2929,7 +2929,7 @@ Parma,ITH52,34,Parma,30.8,Laureati e altri titoli terziari,Valori percentuali (2
 Terni,ITI22,55,Terni,30.7,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
 Ferrara,ITH56,38,Ferrara,30.5,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
 Bari,ITF47,72,Bari,30.4,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,30.0,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,30.0,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
 Treviso,ITH34,26,Treviso,29.2,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
 Livorno,ITI16,49,Livorno,29.2,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,28.9,Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
@@ -3029,7 +3029,7 @@ Pordenone,ITH41,93,Pordenone,11.3,Partecipazione alla formazione continua,In %,2
 Genova,ITC33,10,Genova,11.2,Partecipazione alla formazione continua,In %,2024,Istat
 Torino,ITC11,1,Torino,11.1,Partecipazione alla formazione continua,In %,2024,Istat
 Vibo Valentia,ITF64,102,Vibo Valentia,11.0,Partecipazione alla formazione continua,In %,2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,10.9,Partecipazione alla formazione continua,In %,2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,10.9,Partecipazione alla formazione continua,In %,2024,Istat
 Monza e della Brianza,ITC4D,108,Monza e Brianza,10.9,Partecipazione alla formazione continua,In %,2024,Istat
 Treviso,ITH34,26,Treviso,10.8,Partecipazione alla formazione continua,In %,2024,Istat
 Forlì-Cesena,ITH58,40,Forlì-Cesena,10.8,Partecipazione alla formazione continua,In %,2024,Istat
@@ -3116,7 +3116,7 @@ Varese,ITC41,12,Varese,844.2160000997839,Home e corporate banking per servizio a
 Trieste,ITH44,32,Trieste,842.3365153980066,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
 Verona,ITH31,23,Verona,839.6620974973813,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
 Bergamo,ITC46,16,Bergamo,839.1595973945259,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,830.6224228694363,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,830.6224228694363,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
 Padova,ITH36,28,Padova,818.7710141695543,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
 Rimini,ITH59,99,Rimini,818.270148092701,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
 Sondrio,ITC44,14,Sondrio,816.1976196726073,Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
@@ -3280,7 +3280,7 @@ Sondrio,ITC44,14,Sondrio,83.1,Speranza di vita alla nascita,Numero medio di anni
 Grosseto,ITI1A,53,Grosseto,83.1,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
 Ragusa,ITG18,88,Ragusa,83.1,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
 Biella,ITC13,96,Biella,83.1,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,82.9,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,82.9,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
 Trieste,ITH44,32,Trieste,82.9,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
 Brindisi,ITF44,74,Brindisi,82.9,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
 Potenza,ITF51,76,Potenza,82.9,Speranza di vita alla nascita,Numero medio di anni,2024,Istat
@@ -3406,7 +3406,7 @@ Fermo,ITI35,109,Fermo,5.4,Quoziente di natalità,Nuovi nati ogni mille abitanti,
 Lucca,ITI12,46,Lucca,5.3,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
 Isernia,ITF21,94,Isernia,5.3,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
 Prato,ITI15,100,Prato,5.3,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.2,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.2,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
 Livorno,ITI16,49,Livorno,5.2,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
 Terni,ITI22,55,Terni,5.2,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
 Alessandria,ITC18,6,Alessandria,5.1,Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
@@ -3473,7 +3473,7 @@ Chieti,ITF14,69,Chieti,17.0,Mortalità evitabile (0-74 anni),Tassi standardizzat
 Cuneo,ITC16,4,Cuneo,17.1,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 La Spezia,ITC34,11,La Spezia,17.2,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Teramo,ITF12,67,Teramo,17.2,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,17.3,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,17.3,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Cremona,ITC4A,19,Cremona,17.4,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Pescara,ITF13,68,Pescara,17.4,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Novara,ITC15,3,Novara,17.5,Mortalità evitabile (0-74 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
@@ -3538,7 +3538,7 @@ Forlì-Cesena,ITH58,40,Forlì-Cesena,6.1,Mortalità per tumore (20-64 anni),Tass
 Treviso,ITH34,26,Treviso,6.2,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Perugia,ITI21,54,Perugia,6.2,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Vicenza,ITH32,24,Vicenza,6.3,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,6.4,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,6.4,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Como,ITC42,13,Como,6.5,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Venezia,ITH35,27,Venezia,6.5,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
 Padova,ITH36,28,Padova,6.5,Mortalità per tumore (20-64 anni),Tassi standardizzati per 10.000 residenti,2022,Istat - Indagine sui decessi e sulle cause di morte
@@ -3665,7 +3665,7 @@ Latina,ITI44,59,Latina,6.302069454762993,Iscritti all'aire,"Per provincia di isc
 Rieti,ITI42,57,Rieti,6.68543185501891,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
 Bergamo,ITC46,16,Bergamo,6.934478407442982,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
 Novara,ITC15,3,Novara,6.946921350534188,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,7.042391251201982,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,7.042391251201982,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
 Barletta-Andria-Trani,ITF48,110,Barletta-Andria-Trani,7.145455849118735,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
 Sassari,ITG2D ,90,Sassari,7.31024715203762,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
 Parma,ITH52,34,Parma,7.373222372071093,Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
@@ -3810,7 +3810,7 @@ Udine,ITH42,30,Udine,8.403057065348934,Immigrati regolari residenti,In percentua
 Lecco,ITC43,97,Lecco,8.397442810751219,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
 Massa-Carrara,ITI11,45,Massa-Carrara,8.297324359200896,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
 Matera,ITF52,77,Matera,7.329532834826387,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,7.320273155467184,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,7.320273155467184,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
 Ascoli Piceno,ITI34,44,Ascoli Piceno,7.159680638722554,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,6.975150292752658,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
 Biella,ITC13,96,Biella,6.891838081030804,Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
@@ -3908,7 +3908,7 @@ Fermo,ITI35,109,Fermo,5.3,Saldo migratorio totale,Differenza tra iscritti e canc
 Cuneo,ITC16,4,Cuneo,5.2,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
 Verona,ITH31,23,Verona,5.2,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
 Perugia,ITI21,54,Perugia,5.2,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.1,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.1,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
 Livorno,ITI16,49,Livorno,5.1,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
 Como,ITC42,13,Como,4.7,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,4.5,Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
@@ -4019,7 +4019,7 @@ Taranto,ITF43,73,Taranto,40.8,Indice di dipendenza anziani,Abitanti di 65 anni e
 Sassari,ITG2D ,90,Sassari,40.9,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
 Enna,ITG16,86,Enna,41.0,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
 Lecco,ITC43,97,Lecco,41.0,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,41.1,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,41.1,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
 Sondrio,ITC44,14,Sondrio,41.3,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
 Frosinone,ITI45,60,Frosinone,41.5,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
 Viterbo,ITI41,56,Viterbo,41.6,Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
@@ -4087,7 +4087,7 @@ Roma,ITI43,58,Roma,655.0693033622591,Qualità della vita delle donne,Indice sint
 Varese,ITC41,12,Varese,653.3504547357823,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Como,ITC42,13,Como,652.9912550161395,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Belluno,ITH33,25,Belluno,652.8779688227802,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,652.544828603557,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,652.544828603557,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Parma,ITH52,34,Parma,649.3242505779427,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Bergamo,ITC46,16,Bergamo,642.3247834828077,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Modena,ITH54,36,Modena,640.1037416914603,Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
@@ -4224,7 +4224,7 @@ Ascoli Piceno,ITI34,44,Ascoli Piceno,8.611377969805423,Medici di medicina genera
 Trento,ITH20,22,Trento,8.602836918460147,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
 Torino,ITC11,1,Torino,8.585668691154947,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
 Firenze,ITI14,48,Firenze,8.555955035725663,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,8.545130496350009,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,8.545130496350009,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
 Vercelli,ITC12,2,Vercelli,8.509148843721334,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
 Asti,ITC17,5,Asti,8.492609981711936,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
 Ragusa,ITG18,88,Ragusa,8.45769274142014,Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
@@ -4372,7 +4372,7 @@ Terni,ITI22,55,Terni,16.7,Emigrazione ospedaliera,Dimissioni di residenti avvenu
 Crotone,ITF62,101,Crotone,17.7,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
 Mantova,ITC4B,20,Mantova,18.3,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
 Imperia,ITC31,8,Imperia,18.5,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,18.6,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,18.6,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
 Savona,ITC32,9,Savona,18.8,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
 Rieti,ITI42,57,Rieti,19.4,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
 Vibo Valentia,ITF64,102,Vibo Valentia,19.6,Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
@@ -4448,7 +4448,7 @@ Arezzo,ITI18,51,Arezzo,25.546122193864264,Uscita precoce dal sistema di istruzio
 Rovigo,ITH37,29,Rovigo,25.613347980449287,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
 Reggio Calabria,ITF65,80,Reggio Calabria,25.617759368325675,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
 Modena,ITH54,36,Modena,25.646046150826656,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,25.752439950908773,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,25.752439950908773,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
 Ferrara,ITH56,38,Ferrara,25.781800444420355,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
 Grosseto,ITI1A,53,Grosseto,25.81395746719362,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
 Matera,ITF52,77,Matera,25.8241373270275,Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
@@ -4560,7 +4560,7 @@ Arezzo,ITI18,51,Arezzo,64.4,Persone con almeno il diploma (25-64 anni),Valori pe
 Grosseto,ITI1A,53,Grosseto,64.3,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
 Salerno,ITF35,65,Salerno,64.0,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
 Vibo Valentia,ITF64,102,Vibo Valentia,63.9,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,63.3,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,63.3,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
 Cuneo,ITC16,4,Cuneo,63.1,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
 Mantova,ITC4B,20,Mantova,63.0,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
 Vercelli,ITC12,2,Vercelli,62.7,Persone con almeno il diploma (25-64 anni),Valori percentuali,2024,Istat - Rilevazione sulle Forze di lavoro
@@ -4649,7 +4649,7 @@ Alessandria,ITC18,6,Alessandria,10.93,Anni di studio,Numero medio degli anni di 
 Lucca,ITI12,46,Lucca,10.93,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
 Vicenza,ITH32,24,Vicenza,10.92,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
 Forlì-Cesena,ITH58,40,Forlì-Cesena,10.92,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,10.91,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,10.91,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
 Teramo,ITF12,67,Teramo,10.91,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
 Campobasso,ITF22,70,Campobasso,10.91,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
 Pordenone,ITH41,93,Pordenone,10.9,Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,Ultimo dato disponibile,Elab. Tagliacarne su dati Istat
@@ -4809,14 +4809,14 @@ Rieti,ITI42,57,Rieti,43.66749317781995,Indice della solitudine,Persone sole in %
 Roma,ITI43,58,Roma,43.753515203097855,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Bologna,ITH55,37,Bologna,44.52432422703812,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Milano,ITC4C,15,Milano,44.76447659954725,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,44.89470220467259,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,44.89470220467259,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Imperia,ITC31,8,Imperia,45.1072882873343,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Savona,ITC32,9,Savona,46.873946624067536,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Genova,ITC33,10,Genova,47.648911744055866,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Trieste,ITH44,32,Trieste,49.22663192356518,Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
 Lecco,ITC43,97,Lecco,586.207467006998,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Siena,ITI19,52,Siena,574.6976429001655,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,573.3340064448008,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,573.3340064448008,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Trento,ITH20,22,Trento,564.83969510832,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Firenze,ITI14,48,Firenze,562.3619936643195,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Sondrio,ITC44,14,Sondrio,548.2046866798856,Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
@@ -4935,7 +4935,7 @@ Sondrio,ITC44,14,Sondrio,569.8457284609002,Qualità della vita dei giovani,Indic
 Brescia,ITC47,17,Brescia,569.0700885683607,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Vibo Valentia,ITF64,102,Vibo Valentia,565.2753171421671,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Mantova,ITC4B,20,Mantova,563.1304340693534,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,558.6536367338118,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,558.6536367338118,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Belluno,ITH33,25,Belluno,558.5435576426408,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Agrigento,ITG14,84,Agrigento,556.5881950528102,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,555.5872804659973,Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
@@ -5037,7 +5037,7 @@ Verona,ITH31,23,Verona,583.5789836565386,Qualità della vita degli anziani,Indic
 Vicenza,ITH32,24,Vicenza,579.2265237435909,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Lodi,ITC49,98,Lodi,578.4392696537773,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Parma,ITH52,34,Parma,561.9413348823709,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,554.6802424844113,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,554.6802424844113,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Padova,ITH36,28,Padova,554.1105314716717,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Belluno,ITH33,25,Belluno,542.866867994075,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
 Lecco,ITC43,97,Lecco,541.9265029483487,Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
@@ -5145,7 +5145,7 @@ Parma,ITH52,34,Parma,69.97,Ecosistema urbano,Indice sintetico su 18 parametri,20
 Rimini,ITH59,99,Rimini,69.69,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
 Bologna,ITH55,37,Bologna,69.59,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
 Forlì-Cesena,ITH58,40,Forlì-Cesena,69.32000000000001,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,68.08,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,68.08,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
 Cremona,ITC4A,19,Cremona,67.22,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
 Treviso,ITH34,26,Treviso,67.07,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
 Cuneo,ITC16,4,Cuneo,67.04,Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
@@ -5291,7 +5291,7 @@ Messina,ITG13,83,Messina,67.0,Tasso di motorizzazione,Auto in circolazione ogni 
 Monza e della Brianza,ITC4D,108,Monza e Brianza,67.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
 Forlì-Cesena,ITH58,40,Forlì-Cesena,67.5,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
 Vercelli,ITC12,2,Vercelli,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
 Varese,ITC41,12,Varese,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
 Bolzano/Bozen,ITH10,21,Bolzano,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
 Trento,ITH20,22,Trento,68.0,Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
@@ -5352,7 +5352,7 @@ Reggio nell'Emilia,ITH53,35,Reggio Emilia,88.0,Tasso di motorizzazione,Auto in c
 La Spezia,ITC34,11,La Spezia,99.99,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
 Benevento,ITF32,62,Benevento,99.85,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
 Lecce,ITF45,75,Lecce,98.49,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,98.47,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,98.47,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
 Prato,ITI15,100,Prato,98.07,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
 Sondrio,ITC44,14,Sondrio,97.7,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
 Caltanissetta,ITG15,85,Caltanissetta,97.52,Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
@@ -5466,7 +5466,7 @@ Bergamo,ITC46,16,Bergamo,377.7,Densità di tutti gli impianti fotovoltaici,Numer
 Vicenza,ITH32,24,Vicenza,330.9,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
 Rimini,ITH59,99,Rimini,328.9,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
 Bari,ITF47,72,Bari,310.1,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,287.8,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,287.8,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
 Trento,ITH20,22,Trento,277.5,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
 Trieste,ITH44,32,Trieste,271.4,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
 Cagliari,ITG2F,92,Cagliari,271.4,Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
@@ -5613,7 +5613,7 @@ Prato,ITI15,100,Prato,71.12,Raccolta differenziata dei rifiuti urbani,Valori per
 Fermo,ITI35,109,Fermo,70.78,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
 Vercelli,ITC12,2,Vercelli,70.12,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
 Massa-Carrara,ITI11,45,Massa-Carrara,69.45,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,69.42,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,69.42,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
 Pisa,ITI17,50,Pisa,69.38,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
 Bolzano/Bozen,ITH10,21,Bolzano,69.28,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
 Asti,ITC17,5,Asti,68.89999999999999,Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
@@ -5765,7 +5765,7 @@ Rovigo,ITH37,29,Rovigo,123.5,Illuminazione pubblica sostenibile,"Punti luce a le
 Siracusa,ITG19,89,Siracusa,122.1,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
 Belluno,ITH33,25,Belluno,118.5,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
 Treviso,ITH34,26,Treviso,97.9,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,93.6,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,93.6,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
 L'Aquila,ITF11,66,L'Aquila,88.0,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
 Savona,ITC32,9,Savona,80.9,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
 Bolzano/Bozen,ITH10,21,Bolzano,58.8,Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
@@ -5878,7 +5878,7 @@ Lecco,ITC43,97,Lecco,1187.0,Indice di salubrità dell'aria,"Periodi di almeno 4 
 Belluno,ITH33,25,Belluno,1228.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
 Vicenza,ITH32,24,Vicenza,1328.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
 Biella,ITC13,96,Biella,1419.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,1467.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,1467.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
 Bolzano/Bozen,ITH10,21,Bolzano,1532.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
 Sondrio,ITC44,14,Sondrio,1547.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
 Frosinone,ITI45,60,Frosinone,1563.0,Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
@@ -5988,7 +5988,7 @@ Salerno,ITF35,65,Salerno,8.344347967,Rischio frana,Popolazione in aree a pericol
 Avellino,ITF34,64,Avellino,8.358429796,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
 Potenza,ITF51,76,Potenza,8.36889616,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
 Lucca,ITI12,46,Lucca,10.42764809,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,10.89818418,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,10.89818418,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
 Imperia,ITC31,8,Imperia,11.21196147,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,14.85584996,Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
 Bolzano/Bozen,ITH10,21,Bolzano,0.0,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
@@ -6054,7 +6054,7 @@ Vicenza,ITH32,24,Vicenza,3.26022311323,Rischio alluvione,Popolazione in aree a p
 Brescia,ITC47,17,Brescia,3.2905130997,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
 Rieti,ITI42,57,Rieti,3.32100229435,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
 Avellino,ITF34,64,Avellino,3.59425571527,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,3.61733671908,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,3.61733671908,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,3.64149153896,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
 Teramo,ITF12,67,Teramo,3.69513202263,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
 Terni,ITI22,55,Terni,3.69882324099,Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
@@ -6129,7 +6129,7 @@ Parma,ITH52,34,Parma,105.11711,Qualità delle amministrazioni locali,"Media prov
 Ferrara,ITH56,38,Ferrara,105.09348,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
 Brindisi,ITF44,74,Brindisi,105.07214,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
 Pescara,ITF13,68,Pescara,105.00252,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,104.96355,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,104.96355,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
 Modena,ITH54,36,Modena,104.95641,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
 Bari,ITF47,72,Bari,104.91203,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
 Firenze,ITI14,48,Firenze,104.90621,Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
@@ -6267,7 +6267,7 @@ Oristano,ITG2G ,95,Oristano,52.3,Comuni con servizi per le famiglie interamente 
 Potenza,ITF51,76,Potenza,52.1,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
 Sud Sardegna,ITG2H ,111,Sud Sardegna,52.1,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
 Pavia,ITC48,18,Pavia,51.8,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,51.2,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,51.2,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
 Macerata,ITI33,43,Macerata,51.0,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
 Savona,ITC32,9,Savona,50.2,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
 Pesaro e Urbino,ITI31,41,Pesaro e Urbino,50.0,Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
@@ -6327,7 +6327,7 @@ Vercelli,ITC12,2,Vercelli,51.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dic
 Cremona,ITC4A,19,Cremona,51.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
 Siena,ITI19,52,Siena,51.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
 Grosseto,ITI1A,53,Grosseto,51.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,50.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,50.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
 Brescia,ITC47,17,Brescia,50.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
 Forlì-Cesena,ITH58,40,Forlì-Cesena,50.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,49.0,Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
@@ -6450,7 +6450,7 @@ Reggio Calabria,ITF65,80,Reggio Calabria,2804.7,Indice di criminalità - totale 
 Chieti,ITF14,69,Chieti,2820.7,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Crotone,ITF62,101,Crotone,2824.5,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Ragusa,ITG18,88,Ragusa,2834.2,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2842.4,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2842.4,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Cremona,ITC4A,19,Cremona,2857.1,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Lecco,ITC43,97,Lecco,2879.5,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Ascoli Piceno,ITI34,44,Ascoli Piceno,2882.2,Indice di criminalità - totale dei delitti denunciati,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -6543,7 +6543,7 @@ Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,99.9,Furti in abitazione,Den
 Palermo,ITG12,82,Palermo,100.8,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Matera,ITF52,77,Matera,108.4,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Potenza,ITF51,76,Potenza,111.2,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,114.9,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,114.9,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Barletta-Andria-Trani,ITF48,110,Barletta-Andria-Trani,115.8,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Sondrio,ITC44,14,Sondrio,116.2,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Foggia,ITF46,71,Foggia,122.3,Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -6661,7 +6661,7 @@ Cosenza,ITF61,78,Cosenza,4.8,Furti con strappo,Denunce ogni 100mila abitanti,202
 Mantova,ITC4B,20,Mantova,5.2,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Vercelli,ITC12,2,Vercelli,5.4,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Cagliari,ITG2F,92,Cagliari,5.6,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.7,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.7,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Rovigo,ITH37,29,Rovigo,6.2,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Chieti,ITF14,69,Chieti,6.2,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Campobasso,ITF22,70,Campobasso,6.2,Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -6797,7 +6797,7 @@ Mantova,ITC4B,20,Mantova,13.3,Rapine in pubblica via,Denunce ogni 100mila abitan
 Trento,ITH20,22,Trento,13.4,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Massa-Carrara,ITI11,45,Massa-Carrara,13.4,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Pistoia,ITI13,47,Pistoia,13.8,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,13.9,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,13.9,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Ferrara,ITH56,38,Ferrara,14.1,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Latina,ITI44,59,Latina,14.5,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Lodi,ITC49,98,Lodi,14.8,Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -6896,7 +6896,7 @@ Ancona,ITI32,42,Ancona,42.0,"Reati legati agli stupefacenti (spaccio, produzione
 Brescia,ITC47,17,Brescia,43.2,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Foggia,ITF46,71,Foggia,43.7,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Lecce,ITF45,75,Lecce,43.7,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,44.0,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,44.0,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Macerata,ITI33,43,Macerata,44.0,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Teramo,ITF12,67,Teramo,44.0,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Alessandria,ITC18,6,Alessandria,44.5,"Reati legati agli stupefacenti (spaccio, produzione, ecc.)",Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -7010,7 +7010,7 @@ Viterbo,ITI41,56,Viterbo,395.9,Danneggiamenti,Denunce ogni 100mila abitanti,2024
 Bari,ITF47,72,Bari,397.3,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 La Spezia,ITC34,11,La Spezia,398.2,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Sassari,ITG2D ,90,Sassari,399.4,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,400.1,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,400.1,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 L'Aquila,ITF11,66,L'Aquila,402.2,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Padova,ITH36,28,Padova,406.3,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,406.7,Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -7152,7 +7152,7 @@ Vicenza,ITH32,24,Vicenza,562.9,Truffe e frodi informatiche,Denunce ogni 100mila 
 Udine,ITH42,30,Udine,568.1,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Rovigo,ITH37,29,Rovigo,569.5,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Savona,ITC32,9,Savona,572.4,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,572.9,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,572.9,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Imperia,ITC31,8,Imperia,588.1,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Grosseto,ITI1A,53,Grosseto,591.2,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
 Venezia,ITH35,27,Venezia,592.6,Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
@@ -7173,7 +7173,7 @@ Nuoro,ITG2E ,91,Nuoro,4.3760698299967045,Percezione di insicurezza,"% famiglie s
 Sondrio,ITC44,14,Sondrio,4.563639057638168,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,5.118487247616093,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
 Sud Sardegna,ITG2H ,111,Sud Sardegna,5.972082314002015,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,7.077986179664364,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,7.077986179664364,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
 Enna,ITG16,86,Enna,7.268286337818503,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
 Belluno,ITH33,25,Belluno,7.291876370802827,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
 Gorizia,ITH43,31,Gorizia,8.119254360312533,Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
@@ -7300,7 +7300,7 @@ Arezzo,ITI18,51,Arezzo,2145.334559294219,Indice di litigiosità,Cause civili isc
 Asti,ITC17,5,Asti,2161.338732909512,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
 Ascoli Piceno,ITI34,44,Ascoli Piceno,2182.892439908688,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
 Pordenone,ITH41,93,Pordenone,2195.6097608800087,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2252.259356812769,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2252.259356812769,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
 Rimini,ITH59,99,Rimini,2257.8309283989447,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
 Rovigo,ITH37,29,Rovigo,2259.8741155433368,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,2277.9113733192094,Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
@@ -7397,7 +7397,7 @@ Chieti,ITF14,69,Chieti,200.48954530368405,Durata media dei procedimenti civili,I
 Padova,ITH36,28,Padova,204.59661112908444,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
 Livorno,ITI16,49,Livorno,211.7505609208858,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
 Lodi,ITC49,98,Lodi,218.0728879072336,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,218.8366890380313,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,218.8366890380313,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
 Ravenna,ITH57,39,Ravenna,222.4906444906445,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
 Savona,ITC32,9,Savona,223.9122753111077,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
 Macerata,ITI33,43,Macerata,233.70183790965456,Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
@@ -7579,7 +7579,7 @@ Milano,ITC4C,15,Milano,0.9534483433086884,Indice di rotazione delle cause,Proced
 Palermo,ITG12,82,Palermo,0.9506670744294506,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
 Pescara,ITF13,68,Pescara,0.9504555808656036,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
 Enna,ITG16,86,Enna,0.9452218430034128,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,0.9390756302521008,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,0.9390756302521008,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
 Torino,ITC11,1,Torino,0.9374386787310586,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
 Brindisi,ITF44,74,Brindisi,0.9365111425301286,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
 Crotone,ITF62,101,Crotone,0.9362573986947944,Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
@@ -7604,7 +7604,7 @@ Pordenone,ITH41,93,Pordenone,1.5575833857772183,Quota cause pendenti ultratrienn
 Udine,ITH42,30,Udine,1.6131064902331442,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,1.800814281240213,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
 Vercelli,ITC12,2,Vercelli,1.986491855383393,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,1.9900497512437807,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,1.9900497512437807,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
 Bologna,ITH55,37,Bologna,2.034202842750345,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
 Bolzano/Bozen,ITH10,21,Bolzano,2.058504875406284,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
 Torino,ITC11,1,Torino,2.1505150745861568,Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
@@ -7746,7 +7746,7 @@ Trento,ITH20,22,Trento,3.281453204538429,Incidenti stradali,Morti e feriti ogni 
 Mantova,ITC4B,20,Mantova,3.311957418391798,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
 Rovigo,ITH37,29,Rovigo,3.325229462854324,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
 Monza e della Brianza,ITC4D,108,Monza e Brianza,3.3839081923087417,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,3.389996251446453,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,3.389996251446453,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
 Pavia,ITC48,18,Pavia,3.3906309377548047,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
 Vercelli,ITC12,2,Vercelli,3.400089222199448,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
 Torino,ITC11,1,Torino,3.433621408477752,Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
@@ -7829,7 +7829,7 @@ Bergamo,ITC46,16,Bergamo,2.5,Mortalità stradale in ambito extraurbano,Valori pe
 Udine,ITH42,30,Udine,2.5,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
 Forlì-Cesena,ITH58,40,Forlì-Cesena,2.5,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
 Ancona,ITI32,42,Ancona,2.5,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2.6,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2.6,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
 Milano,ITC4C,15,Milano,2.6,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
 Roma,ITI43,58,Roma,2.6,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
 Alessandria,ITC18,6,Alessandria,2.7,Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
@@ -7927,7 +7927,7 @@ Torino,ITC11,1,Torino,81.5,Comuni: capacità di riscossione,Valori percentuali,2
 Novara,ITC15,3,Novara,81.1,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
 Genova,ITC33,10,Genova,80.8,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
 Treviso,ITH34,26,Treviso,80.7,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,80.5,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,80.5,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
 Modena,ITH54,36,Modena,80.5,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
 Nuoro,ITG2E ,91,Nuoro,80.4,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
 Padova,ITH36,28,Padova,80.1,Comuni: capacità di riscossione,Valori percentuali,2022,Istat
@@ -8044,7 +8044,7 @@ Siracusa,ITG19,89,Siracusa,1.63,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Terni,ITI22,55,Terni,1.53,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,1.49,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Como,ITC42,13,Como,1.46,Patrimonio museale,Per 100 km2,2022,Bes Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,1.45,Patrimonio museale,Per 100 km2,2022,Bes Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,1.45,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Caserta,ITF31,61,Caserta,1.41,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Modena,ITH54,36,Modena,1.39,Patrimonio museale,Per 100 km2,2022,Bes Istat
 Lecco,ITC43,97,Lecco,1.39,Patrimonio museale,Per 100 km2,2022,Bes Istat
@@ -8145,7 +8145,7 @@ Firenze,ITI14,48,Firenze,85.37485092878944,Offerta culturale,Spettacoli ogni mil
 Milano,ITC4C,15,Milano,83.51769894473588,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
 Terni,ITI22,55,Terni,80.70168923466854,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
 Perugia,ITI21,54,Perugia,78.41252036428705,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,77.08981860260442,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,77.08981860260442,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
 Bari,ITF47,72,Bari,76.72360081465057,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
 Pisa,ITI17,50,Pisa,76.65310432649004,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
 Prato,ITI15,100,Prato,75.78496633396402,Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
@@ -8299,7 +8299,7 @@ Caserta,ITF31,61,Caserta,61.535900940741335,Ingressi agli spettacoli,Numero medi
 Piacenza,ITH51,33,Piacenza,59.98217159836573,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
 Arezzo,ITI18,51,Arezzo,59.88522881267591,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
 Cuneo,ITC16,4,Cuneo,59.8524520514688,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,59.22124735729387,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,59.22124735729387,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
 L'Aquila,ITF11,66,L'Aquila,58.964925502927706,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
 Brindisi,ITF44,74,Brindisi,58.18359375,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
 Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,58.05667276051188,Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
@@ -8353,7 +8353,7 @@ Imperia,ITC31,8,Imperia,6.186888004895961,Ristoranti (incluse le attività di ri
 La Spezia,ITC34,11,La Spezia,6.135283227745062,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
 Sassari,ITG2D ,90,Sassari,5.853879865070296,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
 Rimini,ITH59,99,Rimini,5.724098454493417,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,5.606532262007596,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,5.606532262007596,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
 Massa-Carrara,ITI11,45,Massa-Carrara,5.4830021578612005,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
 Lucca,ITI12,46,Lucca,5.356021781330363,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
 Genova,ITC33,10,Genova,5.13894199115374,Ristoranti (incluse le attività di ristorazione mobile),Ogni mille abitanti,Al 30 settembre 2025,Infocamere
@@ -8478,7 +8478,7 @@ Brescia,ITC47,17,Brescia,2.1877552051988016,"Palestre, piscine, centri per il be
 Treviso,ITH34,26,Treviso,2.165081788813364,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
 Verona,ITH31,23,Verona,2.153068068170441,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
 Bergamo,ITC46,16,Bergamo,2.134458318423514,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,2.118747657154033,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,2.118747657154033,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
 Chieti,ITF14,69,Chieti,2.08036700916172,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
 Arezzo,ITI18,51,Arezzo,2.068060159570323,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
 Trento,ITH20,22,Trento,2.066913110996892,"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
@@ -8572,7 +8572,7 @@ Macerata,ITI33,43,Macerata,10.254408568716116,Librerie,Ogni 100mila abitanti,Al 
 Benevento,ITF32,62,Benevento,10.013556815380824,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
 Firenze,ITI14,48,Firenze,9.904392294787057,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
 Perugia,ITI21,54,Perugia,9.897396984593051,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,9.77883534071092,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,9.77883534071092,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
 Pistoia,ITI13,47,Pistoia,9.653973989435794,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
 Roma,ITI43,58,Roma,9.493629679785316,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
 Ascoli Piceno,ITI34,44,Ascoli Piceno,9.481037924151696,Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
@@ -8706,7 +8706,7 @@ Pescara,ITF13,68,Pescara,13.171768871101191,Indice di lettura,Copie ogni 100 abi
 Vercelli,ITC12,2,Vercelli,12.960127322490022,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
 Oristano,ITG2G ,95,Oristano,12.79362245932898,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
 Bergamo,ITC46,16,Bergamo,12.70702227818449,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,12.648923513209576,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,12.648923513209576,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
 Firenze,ITI14,48,Firenze,12.501970771936207,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
 Imperia,ITC31,8,Imperia,12.455534730722151,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
 Padova,ITH36,28,Padova,12.45282533365355,Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
@@ -8831,7 +8831,7 @@ Macerata,ITI33,43,Macerata,53.6,Copertura della rete fissa di accesso ultra velo
 Fermo,ITI35,109,Fermo,53.6,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
 Pesaro e Urbino,ITI31,41,Pesaro e Urbino,53.2,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
 Gorizia,ITH43,31,Gorizia,52.6,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,51.3,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,51.3,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
 Siena,ITI19,52,Siena,50.8,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
 Cuneo,ITC16,4,Cuneo,50.7,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
 Treviso,ITH34,26,Treviso,50.7,Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
@@ -8912,7 +8912,7 @@ Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola,1.2251152124969706,Indice di
 Venezia,ITH35,27,Venezia,1.2159099641307125,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
 Lucca,ITI12,46,Lucca,1.1925863822681435,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
 Perugia,ITI21,54,Perugia,1.1779580228759017,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,1.1383726333717403,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,1.1383726333717403,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
 Belluno,ITH33,25,Belluno,1.129241398753532,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
 Sondrio,ITC44,14,Sondrio,1.1016556613623862,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
 Ravenna,ITH57,39,Ravenna,1.096229584627608,Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
@@ -9010,7 +9010,7 @@ Macerata,ITI33,43,Macerata,653.1,Indice del clima,Media dei punteggi in base a 1
 Catania,ITG17,87,Catania,651.7,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
 Perugia,ITI21,54,Perugia,649.7,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
 Reggio Calabria,ITF65,80,Reggio Calabria,649.4,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,646.4,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,646.4,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
 Crotone,ITF62,101,Crotone,643.9,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
 Cagliari,ITG2F,92,Cagliari,642.7,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
 Teramo,ITF12,67,Teramo,642.3,Indice del clima,Media dei punteggi in base a 10 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
@@ -9109,7 +9109,7 @@ Isernia,ITF21,94,Isernia,32.6,Aree protette,In %,2022,Bes Istat
 Taranto,ITF43,73,Taranto,31.9,Aree protette,In %,2022,Bes Istat
 Imperia,ITC31,8,Imperia,31.0,Aree protette,In %,2022,Bes Istat
 Bari,ITF47,72,Bari,30.9,Aree protette,In %,2022,Bes Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,30.3,Aree protette,In %,2022,Bes Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,30.3,Aree protette,In %,2022,Bes Istat
 Reggio Calabria,ITF65,80,Reggio Calabria,30.2,Aree protette,In %,2022,Bes Istat
 Teramo,ITF12,67,Teramo,30.0,Aree protette,In %,2022,Bes Istat
 Cosenza,ITF61,78,Cosenza,29.6,Aree protette,In %,2022,Bes Istat
@@ -9249,7 +9249,7 @@ Massa-Carrara,ITI11,45,Massa-Carrara,13.77,Spesa dei comuni per la cultura,In eu
 Lecce,ITF45,75,Lecce,13.56,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
 Bologna,ITH55,37,Bologna,13.26,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
 Reggio nell'Emilia,ITH53,35,Reggio Emilia,13.21,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,12.64,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,12.64,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
 Treviso,ITH34,26,Treviso,12.63,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
 Cosenza,ITF61,78,Cosenza,12.58,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
 Imperia,ITC31,8,Imperia,11.81,Spesa dei comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
@@ -9325,7 +9325,7 @@ Siracusa,ITG19,89,Siracusa,31.8,Amministratori comunali con meno di 40 anni,In %
 Caserta,ITF31,61,Caserta,31.5,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
 Cosenza,ITF61,78,Cosenza,31.2,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
 Brescia,ITC47,17,Brescia,30.8,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,30.7,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,30.7,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
 Ravenna,ITH57,39,Ravenna,30.6,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
 Catania,ITG17,87,Catania,30.4,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
 Catanzaro,ITF63,79,Catanzaro,30.3,Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
@@ -9498,7 +9498,7 @@ Chieti,ITF14,69,Chieti,43.6,Partecipazione elettorale,Valori percentuali,2025,Be
 Belluno,ITH33,25,Belluno,43.1,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Foggia,ITF46,71,Foggia,42.7,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Cagliari,ITG2F,92,Cagliari,42.7,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,42.5,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,42.5,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Napoli,ITF33,63,Napoli,42.0,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 L'Aquila,ITF11,66,L'Aquila,41.8,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Isernia,ITF21,94,Isernia,41.5,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
@@ -9523,7 +9523,7 @@ Ragusa,ITG18,88,Ragusa,31.1,Partecipazione elettorale,Valori percentuali,2025,Be
 Oristano,ITG2G ,95,Oristano,31.0,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Nuoro,ITG2E ,91,Nuoro,29.8,Partecipazione elettorale,Valori percentuali,2025,Bes Istat
 Trento,ITH20,22,Trento,116.4,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
-Valle d'Aosta/VallÃ©e d'Aoste,ITC20,7,Aosta,109.6,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta,109.6,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
 Gorizia,ITH43,31,Gorizia,102.3,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
 Bolzano/Bozen,ITH10,21,Bolzano,99.6,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
 Belluno,ITH33,25,Belluno,99.4,Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit
