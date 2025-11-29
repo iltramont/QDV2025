@@ -4,7 +4,7 @@
 La trentaseiesima edizione della tradizionale classifica annuale con la quale Il Sole 24 ORE premia le province italiane che hanno ottenuto le migliori performance in una serie di indicatori scelti come paradigmatici per valutare il benessere personale e familiare.
 
 ## Edizione 2025 ##
-L'edizione 2025 è stata pubblicata su Il Sole 24 ORE di *Lunedì 1 Dicembre 2025* e sul sito [www.ilsole24ore.com](https://lab24.ilsole24ore.com/qualita-della-vita/)
+L'edizione 2025 è stata pubblicata su Il Sole 24 ORE di *Lunedì 1 Dicembre 2025* e sul sito [www.qualitadellavita.ilsole24ore.com](https://lab24.ilsole24ore.com/qualita-della-vita/)
 
 ## Il Sole 24 ORE ##
 
