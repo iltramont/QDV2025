@@ -1,0 +1,91 @@
+INDICATORE,UNITA_MISURA,ANNO_RIFERIMENTO,FONTE
+Valore aggiunto per abitante,Migliaia di euro a valori correnti,Stima sul 2025,Prometeia
+Trend del pil pro capite,Var % annua,Stima 2025 / 2024,elab. su dati Prometeia
+Depositi bancari delle famiglie consumatrici,In migliaia euro pro capite,Al 31 luglio 2025,Banca d'italia
+Retribuzione media annua dei lavoratori dipendenti,Euro,2023,Istat - Elaborazioni su dati Inps - Osservatorio sui lavoratori dipendenti
+Reddito medio disponibile pro capite,Euro per abitante,2023,Istituto Tagliacarne - Stime provinciali degli aggregati macroeconomici
+Famiglie con Isee basso,Isee < 7mila euro - in % sul totale dei nuclei con Isee,2024,elab su dati Inps
+Pensionati con reddito pensionistico di basso importo,Valori percentuali,2023,Istat - Statistiche della previdenza e dell'assistenza sociale
+Reddito medio da pensione di vecchiaia,In euro,2024,Inps 
+Disuguaglianza del reddito netto,Rapporto ultimo quintile/primo quintile,2023,elab. su dati statistiche Fiscali - Mef
+Mensilità di stipendio per comprare casa,Per 60 mq in zona semi centrale,A ottobre 2025,elab su dati Scenari immobiliari e Istat
+Assorbimento del settore residenziale,% mq compravenduti su mq offerti sul mercato,Stima sul 2025,Scenari immobiliari
+Spesa delle famiglie per il consumo di beni durevoli,In euro all'anno,2024,Osservatorio Findomestic - Prometeia
+Pagamenti delle fatture alla scadenza,% delle fatture commerciali ai fornitori pagate entro la scadenza,A settembre 2025,Cribis
+Inflazione indice generale,In %,Sett 2024-sett 2025,elab. su dati Istat
+Inflazione prodotti alimentari e bevande non alcoliche,In %,Sett 2024-sett 2025,elab. su dati Istat
+Startup innovative,Ogni mille società di capitale,Al 30 settembre 2025,Infocamere
+Arrivi turistici,Var % annua,2024 rispetto al 2023,elab. su dati Istat
+Nuove iscrizioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Cessazioni,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Tasso di infortuni sul lavoro mortali e con inabilità permanente,Per 10mila occupati,2023,Istat
+Imprese in fallimento,Ogni 100 imprese registrate,Al 30 settembre 2025,Infocamere
+Tasso di occupazione,In % (20-64 anni),2024,Istat
+Tasso di mancata partecipazione al lavoro,In %,2024,Istat
+Tasso di disoccupazione giovanile,In % (15-24 anni),2024,Istat
+Numero di ore Cig autorizzate,Ore medie per impresa registrata,2024,Inps 
+Quota di export sul Pil,Rapporto % tra esportazioni di beni verso l'estero e valore aggiunto,2024,Prometeia
+Numero pensioni di vecchiaia,Numero pensionati ogni 1000 abitanti,2024,Inps/Istat
+Laureati e altri titoli terziari,Valori percentuali (25-39 anni),2024,Istat - Rilevazione sulle Forze di lavoro
+Partecipazione alla formazione continua,In %,2024,Istat
+Home e corporate banking per servizio alle famiglie,Numero clienti ogni mille abitanti,Al 31 dicembre 2024,Banca d'italia
+Speranza di vita alla nascita,Numero medio di anni,2024,Istat
+Quoziente di natalità,Nuovi nati ogni mille abitanti,2024,Istat
+Mortalità evitabile,Tassi standardizzati per 10.000 residenti (0-74 anni),2022,Istat - Indagine sui decessi e sulle cause di morte
+Mortalità per tumore,Tassi standardizzati per 10.000 residenti (20-64 anni),2022,Istat - Indagine sui decessi e sulle cause di morte
+Iscritti all'aire,"Per provincia di iscrizione, ogni 100 abitanti",Al 31 dicembre 2024,elab. su dati ministero Interno e Istat
+Immigrati regolari residenti,In percentuale sulla popolazione residente,Al 1° gennaio 2025,Istat
+Saldo migratorio totale,Differenza tra iscritti e cancellati all'anagrafe per trasferimento,2024,Istat
+Indice di dipendenza anziani,Abitanti di 65 anni e più ogni 100 in età attiva (15-64 anni),2025,Istat
+Qualità della vita delle donne,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Medici di medicina generale,Professionisti attivi ogni 10.000 abitanti,Media ultimi 12 mesi,Iqvia 
+Emigrazione ospedaliera,Dimissioni di residenti avvenute in altra regione (in %),2023,Istat su dati del ministero della Salute
+Uscita precoce dal sistema di istruzione e formazione,Analfabeti o con licenza di prima elementare o media. in % (25-49 anni),2023,Istat
+Persone con almeno il diploma,Valori percentuali (25-64 anni),2024,Istat - Rilevazione sulle Forze di lavoro
+Anni di studio,Numero medio degli anni di studio della popolazione over 25 anni,2024,Elab. Tagliacarne su dati Istat
+Indice della solitudine,Persone sole in % sul totale dei nuclei,2023,elab. su dati Istat
+Qualità della vita dei bambini,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Qualità della vita dei giovani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Qualità della vita degli anziani,Indice sintetico su 12 parametri,2025,elab. Sole 24 Ore
+Ecosistema urbano,Indice sintetico su 18 parametri,2025,Legambiente - Ambiente Italia
+Tasso di motorizzazione,Auto in circolazione ogni 100 abitanti,2023,Aci/Istat 
+Energia elettrica da fonti rinnovabili,"Eolico, fotovoltaico, geotermico e idrico, in % su produzione lorda",2024,Elab. Tagliacarne su dati Terna
+Densità di tutti gli impianti fotovoltaici,Numero per 10 kmq nei comuni capoluogo,2023,Tagliacarne
+Raccolta differenziata dei rifiuti urbani,Valori percentuali,2023,Istat - Elaborazione su dati Ispra
+Illuminazione pubblica sostenibile,"Punti luce a led, in % sul totale nel comune capoluogo",2022,Istat - Ambiente urbano
+Indice di salubrità dell'aria,"Periodi di almeno 4 giorni con precipitazioni < 1 mm giornaliero, vento medio < a 5 km/h e nebbia assente",2014-2024 (media annua),elab. su dati 3bmeteo - Indice del clima
+Rischio frana,Popolazione in aree a pericolosità da frana elevata e molto elevata. in %,2024,Ispra
+Rischio alluvione,Popolazione in aree a pericolosità idraulica elevata. in %,2020,Ispra
+Qualità delle amministrazioni locali,"Media provinciale pesata, su 11 indicatori comunali",2021-2023,The Municipal Administration Quality Index
+Comuni con servizi per le famiglie interamente online,Valori percentuali,2022,Istat 
+Sportelli bancari,Ogni 100mila abitanti,Al 31 dicembre 2024,Banca d'italia
+Indice di criminalità,Totale delitti ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Furti in abitazione,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Furti con strappo,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Rapine in pubblica via,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Reati legati agli stupefacenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Danneggiamenti,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Truffe e frodi informatiche,Denunce ogni 100mila abitanti,2024,Pubblica Sicurezza - Interno/Istat
+Percezione di insicurezza,"% famiglie sul totale (rischio di criminalità nella zona in cui abitano, molto o abbastanza)",2023,Bes Istat
+Indice di litigiosità,Cause civili iscritte ogni 100mila abitanti,2024,Elaborazione su dati Giustizia.it
+Durata media dei procedimenti civili,In giorni,2024,Elaborazione su dati Giustizia.it
+Indice di rotazione delle cause,Procedimenti definiti su nuovi iscritti,2024,Elaborazione su dati Giustizia.it
+Quota cause pendenti ultratriennali,In % sul totale delle cause pendenti,2024,Elaborazione su dati Giustizia.it
+Incidenti stradali,Morti e feriti ogni mille abitanti,2023,Istat
+Mortalità stradale in ambito extraurbano,Valori percentuali,2023,Istat - Rilevazione degli incidenti stradali con lesione a persone
+Comuni: capacità di riscossione,Valori percentuali,2022,Istat
+Patrimonio museale,Per 100 km2,2022,Bes Istat
+Offerta culturale,Spettacoli ogni mille abitanti,2024,Siae
+Ingressi agli spettacoli,Numero medio di biglietti per spettacolo o manifestazione,2024,Siae
+Ristoranti,Ogni mille abitanti (incluse le attività di ristorazione mobile),Al 30 settembre 2025,Infocamere
+"Palestre, piscine, centri per il benessere e stabilimenti termali",Ogni 10mila abitanti,Al 30 settembre 2025,Infocamere
+Librerie,Ogni 100mila abitanti,Al 30 settembre 2025,Infocamere
+Indice di lettura,Copie ogni 100 abitanti,2024,Ads/Istat
+Copertura della rete fissa di accesso ultra veloce a internet,Valori percentuali,2023,Istat - Elaborazione su dati Agcom
+Indice di sportività,Media dei punteggi in base a 36 parametri,2025,Pts
+Indice del clima,Media dei punteggi in base a 15 parametri climatici,2014-2024,elaborazione Sole 24 Ore su dati 3Bmeteo
+Aree protette,In %,2022,Bes Istat
+Spesa dei Comuni per la cultura,In euro pro capite per alcuni capitoli,2024,Elab. Tagliacarne su dati Siope
+Amministratori comunali con meno di 40 anni,In % sul totale,2024,Istat su dati Anagrafe degli amministratori locali
+Partecipazione elettorale,Valori percentuali,2025,Bes Istat
+Organizzazioni non profit,Per 10.000 abitanti,2022,Istat - Censimento sulle istituzioni non profit

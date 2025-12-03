@@ -1,0 +1,108 @@
+NOME_ISTAT,COD_NUTS,COD_ISTAT,PROVINCIA
+Milano,ITC4C,15,Milano
+Bolzano/Bozen,ITH10,21,Bolzano
+Bologna,ITH55,37,Bologna
+Roma,ITI43,58,Roma
+Valle d'Aosta/Vallée d'Aoste,ITC20,7,Aosta
+Modena,ITH54,36,Modena
+Firenze,ITI14,48,Firenze
+Trento,ITH20,22,Trento
+Parma,ITH52,34,Parma
+Reggio nell'Emilia,ITH53,35,Reggio Emilia
+Brescia,ITC47,17,Brescia
+Vicenza,ITH32,24,Vicenza
+Trieste,ITH44,32,Trieste
+Padova,ITH36,28,Padova
+Verona,ITH31,23,Verona
+Bergamo,ITC46,16,Bergamo
+Genova,ITC33,10,Genova
+Treviso,ITH34,26,Treviso
+Cuneo,ITC16,4,Cuneo
+Cremona,ITC4A,19,Cremona
+Belluno,ITH33,25,Belluno
+Piacenza,ITH51,33,Piacenza
+Forlì-Cesena,ITH58,40,Forlì-Cesena
+Mantova,ITC4B,20,Mantova
+Venezia,ITH35,27,Venezia
+La Spezia,ITC34,11,La Spezia
+Torino,ITC11,1,Torino
+Ravenna,ITH57,39,Ravenna
+Lecco,ITC43,97,Lecco
+Monza e della Brianza,ITC4D,108,Monza e Brianza
+Udine,ITH42,30,Udine
+Pisa,ITI17,50,Pisa
+Siena,ITI19,52,Siena
+Novara,ITC15,3,Novara
+Varese,ITC41,12,Varese
+Arezzo,ITI18,51,Arezzo
+Pordenone,ITH41,93,Pordenone
+Sondrio,ITC44,14,Sondrio
+Prato,ITI15,100,Prato
+Rimini,ITH59,99,Rimini
+Savona,ITC32,9,Savona
+Cagliari,ITG2F,92,Cagliari
+Ancona,ITI32,42,Ancona
+Como,ITC42,13,Como
+Lucca,ITI12,46,Lucca
+Alessandria,ITC18,6,Alessandria
+Vercelli,ITC12,2,Vercelli
+Pesaro e Urbino,ITI31,41,Pesaro e Urbino
+Biella,ITC13,96,Biella
+Livorno,ITI16,49,Livorno
+Gorizia,ITH43,31,Gorizia
+Macerata,ITI33,43,Macerata
+Lodi,ITC49,98,Lodi
+Chieti,ITF14,69,Chieti
+Perugia,ITI21,54,Perugia
+L'Aquila,ITF11,66,L'Aquila
+Massa-Carrara,ITI11,45,Massa-Carrara
+Rovigo,ITH37,29,Rovigo
+Ascoli Piceno,ITI34,44,Ascoli Piceno
+Pavia,ITC48,18,Pavia
+Asti,ITC17,5,Asti
+Pistoia,ITI13,47,Pistoia
+Ferrara,ITH56,38,Ferrara
+Grosseto,ITI1A,53,Grosseto
+Teramo,ITF12,67,Teramo
+Pescara,ITF13,68,Pescara
+Verbano-Cusio-Ossola,ITC14,103,Verbano-Cusio-Ossola
+Potenza,ITF51,76,Potenza
+Imperia,ITC31,8,Imperia
+Fermo,ITI35,109,Fermo
+Terni,ITI22,55,Terni
+Latina,ITI44,59,Latina
+Frosinone,ITI45,60,Frosinone
+Bari,ITF47,72,Bari
+Campobasso,ITF22,70,Campobasso
+Sassari,ITG2D ,90,Sassari
+Viterbo,ITI41,56,Viterbo
+Rieti,ITI42,57,Rieti
+Siracusa,ITG19,89,Siracusa
+Isernia,ITF21,94,Isernia
+Matera,ITF52,77,Matera
+Nuoro,ITG2E ,91,Nuoro
+Napoli,ITF33,63,Napoli
+Catanzaro,ITF63,79,Catanzaro
+Palermo,ITG12,82,Palermo
+Salerno,ITF35,65,Salerno
+Taranto,ITF43,73,Taranto
+Catania,ITG17,87,Catania
+Messina,ITG13,83,Messina
+Avellino,ITF34,64,Avellino
+Oristano,ITG2G ,95,Oristano
+Foggia,ITF46,71,Foggia
+Ragusa,ITG18,88,Ragusa
+Benevento,ITF32,62,Benevento
+Brindisi,ITF44,74,Brindisi
+Lecce,ITF45,75,Lecce
+Reggio Calabria,ITF65,80,Reggio Calabria
+Caltanissetta,ITG15,85,Caltanissetta
+Crotone,ITF62,101,Crotone
+Caserta,ITF31,61,Caserta
+Trapani,ITG11,81,Trapani
+Enna,ITG16,86,Enna
+Agrigento,ITG14,84,Agrigento
+Vibo Valentia,ITF64,102,Vibo Valentia
+Sud Sardegna,ITG2H ,111,Sud Sardegna
+Barletta-Andria-Trani,ITF48,110,Barletta-Andria-Trani
+Cosenza,ITF61,78,Cosenza
