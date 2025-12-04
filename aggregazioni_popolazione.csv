@@ -1,0 +1,108 @@
+PROVINCIA,REGIONE,MACROREGIONE,MEGAREGIONE,POPOLAZIONE
+Milano,Lombardia,Nord-ovest,Nord,3247623
+Bolzano,Trentino Alto Adige,Nord-est,Nord,539386
+Bologna,Emilia-Romagna,Nord-est,Nord,1020865
+Roma,Lazio,Centro,Centro,4223885
+Aosta,Valle d'Aosta,Nord-ovest,Nord,122714
+Modena,Emilia-Romagna,Nord-est,Nord,709149
+Firenze,Toscana,Centro,Centro,989460
+Trento,Trentino Alto Adige,Nord-est,Nord,546709
+Parma,Emilia-Romagna,Nord-est,Nord,456015
+Reggio Emilia,Emilia-Romagna,Nord-est,Nord,531113
+Brescia,Lombardia,Nord-ovest,Nord,1266138
+Vicenza,Veneto,Nord-est,Nord,854131
+Trieste,Friuli-Venezia Giulia,Nord-est,Nord,228049
+Padova,Veneto,Nord-est,Nord,932704
+Verona,Veneto,Nord-est,Nord,928907
+Bergamo,Lombardia,Nord-ovest,Nord,1115037
+Genova,Liguria,Nord-ovest,Nord,818651
+Treviso,Veneto,Nord-est,Nord,877565
+Cuneo,Piemonte,Nord-ovest,Nord,581676
+Cremona,Lombardia,Nord-ovest,Nord,353995
+Belluno,Veneto,Nord-est,Nord,197558
+Piacenza,Emilia-Romagna,Nord-est,Nord,286743
+Forlì-Cesena,Emilia-Romagna,Nord-est,Nord,393628
+Mantova,Lombardia,Nord-ovest,Nord,407312
+Venezia,Veneto,Nord-est,Nord,833934
+La Spezia,Liguria,Nord-ovest,Nord,214986
+Torino,Piemonte,Nord-ovest,Nord,2207873
+Ravenna,Emilia-Romagna,Nord-est,Nord,387501
+Lecco,Lombardia,Nord-ovest,Nord,333804
+Monza e Brianza,Lombardia,Nord-ovest,Nord,879752
+Udine,Friuli-Venezia Giulia,Nord-est,Nord,516443
+Pisa,Toscana,Centro,Centro,418561
+Siena,Toscana,Centro,Centro,259826
+Novara,Piemonte,Nord-ovest,Nord,364478
+Varese,Lombardia,Nord-ovest,Nord,881907
+Arezzo,Toscana,Centro,Centro,333646
+Pordenone,Friuli-Venezia Giulia,Nord-est,Nord,310967
+Sondrio,Lombardia,Nord-ovest,Nord,179051
+Prato,Toscana,Centro,Centro,261094
+Rimini,Emilia-Romagna,Nord-est,Nord,340665
+Savona,Liguria,Nord-ovest,Nord,267119
+Cagliari,Sardegna,Isole,Mezzogiorno,417079
+Ancona,Marche,Centro,Centro,461645
+Como,Lombardia,Nord-ovest,Nord,598333
+Lucca,Toscana,Centro,Centro,380693
+Alessandria,Piemonte,Nord-ovest,Nord,407029
+Vercelli,Piemonte,Nord-ovest,Nord,165878
+Pesaro e Urbino,Marche,Centro,Centro,349798
+Biella,Piemonte,Nord-ovest,Nord,168257
+Livorno,Toscana,Centro,Centro,325431
+Gorizia,Friuli-Venezia Giulia,Nord-est,Nord,138636
+Macerata,Marche,Centro,Centro,302309
+Lodi,Lombardia,Nord-ovest,Nord,230447
+Chieti,Abruzzo,Sud,Mezzogiorno,370127
+Perugia,Umbria,Centro,Centro,636531
+L'Aquila,Abruzzo,Sud,Mezzogiorno,286681
+Massa-Carrara,Toscana,Centro,Centro,186759
+Rovigo,Veneto,Nord-est,Nord,227052
+Ascoli Piceno,Marche,Centro,Centro,200400
+Pavia,Lombardia,Nord-ovest,Nord,542082
+Asti,Piemonte,Nord-ovest,Nord,207310
+Pistoia,Toscana,Centro,Centro,290036
+Ferrara,Emilia-Romagna,Nord-est,Nord,339999
+Grosseto,Toscana,Centro,Centro,215328
+Teramo,Abruzzo,Sud,Mezzogiorno,299796
+Pescara,Abruzzo,Sud,Mezzogiorno,311826
+Verbano-Cusio-Ossola,Piemonte,Nord-ovest,Nord,153201
+Potenza,Basilicata,Sud,Mezzogiorno,340799
+Imperia,Liguria,Nord-ovest,Nord,209152
+Fermo,Marche,Centro,Centro,167100
+Terni,Umbria,Centro,Centro,215423
+Latina,Lazio,Centro,Centro,566671
+Frosinone,Lazio,Centro,Centro,462363
+Bari,Puglia,Sud,Mezzogiorno,1218191
+Campobasso,Molise,Sud,Mezzogiorno,209207
+Sassari,Sardegna,Isole,Mezzogiorno,471653
+Viterbo,Lazio,Centro,Centro,307430
+Rieti,Lazio,Centro,Centro,149923
+Siracusa,Sicilia,Isole,Mezzogiorno,382690
+Isernia,Molise,Sud,Mezzogiorno,78759
+Matera,Basilicata,Sud,Mezzogiorno,189098
+Nuoro,Sardegna,Isole,Mezzogiorno,195437
+Napoli,Campania,Sud,Mezzogiorno,2958410
+Catanzaro,Calabria,Sud,Mezzogiorno,339297
+Palermo,Sicilia,Isole,Mezzogiorno,1194439
+Salerno,Campania,Sud,Mezzogiorno,1054766
+Taranto,Puglia,Sud,Mezzogiorno,550046
+Catania,Sicilia,Isole,Mezzogiorno,1068563
+Messina,Sicilia,Isole,Mezzogiorno,595948
+Avellino,Campania,Sud,Mezzogiorno,394759
+Oristano,Sardegna,Isole,Mezzogiorno,147894
+Foggia,Puglia,Sud,Mezzogiorno,590304
+Ragusa,Sicilia,Isole,Mezzogiorno,320976
+Benevento,Campania,Sud,Mezzogiorno,259648
+Brindisi,Puglia,Sud,Mezzogiorno,375286
+Lecce,Puglia,Sud,Mezzogiorno,763778
+Reggio Calabria,Calabria,Sud,Mezzogiorno,511935
+Caltanissetta,Sicilia,Isole,Mezzogiorno,244913
+Crotone,Calabria,Sud,Mezzogiorno,161479
+Caserta,Campania,Sud,Mezzogiorno,907442
+Trapani,Sicilia,Isole,Mezzogiorno,411396
+Enna,Sicilia,Isole,Mezzogiorno,152387
+Agrigento,Sicilia,Isole,Mezzogiorno,408059
+Vibo Valentia,Calabria,Sud,Mezzogiorno,150197
+Sud Sardegna,Sardegna,Isole,Mezzogiorno,329276
+Barletta-Andria-Trani,Puglia,Sud,Mezzogiorno,376561
+Cosenza,Calabria,Sud,Mezzogiorno,669239
